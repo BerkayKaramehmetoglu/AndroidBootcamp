@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Android Bootcamp</string>
+    <string name="cars">CARS</string>
+    <string name="image_desc">GT3RSImage</string>
+    <string name="porsche">Porsche 911</string>
+    <string name="gt3rs">GT3 RS</string>
+    <string name="power">386 kW/525 PS</string>
+    <string name="acceleration">3,2 sn</string>
+    <string name="maximum_speed">296 km/sa.</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="desc">High-performance sports car with high- revving naturally aspirated engine, rear drive, aerodynamics adapted for maximum downforce, chassis engineered for the race track, dynamic engine mounts, rear-axle steering with sports setup.</string>
 </resources>

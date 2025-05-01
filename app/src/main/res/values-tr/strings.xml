@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Bootcamp</string>
+    <string name="cars">CARS</string>
+    <string name="image_desc">GT3RSGörseli</string>
+    <string name="porsche">Porsche 911</string>
+    <string name="gt3rs">GT3 RS</string>
+    <string name="power">386 kW/525 PS</string>
+    <string name="acceleration">3,2 sn</string>
+    <string name="maximum_speed">296 km/sa.</string>
+    <string name="buy_now">SATIN AL</string>
+    <string name="desc">Yüksek devirli doğal emişli motora, arkadan itişe, maksimum yere basma kuvveti için uyarlanmış aerodinamik özelliklere, yarış pisti için tasarlanmış şasiye, dinamik motor bağlantılarına, spor ayarlı arka aks yönlendirmesine sahip yüksek performanslı spor otomobil.</string>
+</resources>
