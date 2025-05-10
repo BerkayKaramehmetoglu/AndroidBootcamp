@@ -9,4 +9,6 @@
     <string name="maximum_speed">296 km/sa.</string>
     <string name="buy_now">BUY NOW</string>
     <string name="desc">High-performance sports car with high- revving naturally aspirated engine, rear drive, aerodynamics adapted for maximum downforce, chassis engineered for the race track, dynamic engine mounts, rear-axle steering with sports setup.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
