@@ -8,7 +8,7 @@
     android:background="#1b2631"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Odev5MainActivity">
+    tools:context=".odev5.Odev5MainActivity">
 
     <TextView
         android:id="@+id/sonuc"

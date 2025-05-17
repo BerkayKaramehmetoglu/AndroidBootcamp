@@ -13,7 +13,16 @@
         android:theme="@style/Theme.AndroidBootcamp"
         tools:targetApi="31">
         <activity
-            android:name=".Odev5MainActivity"
+            android:name=".odev6.Odev6MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".odev5.Odev5MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
